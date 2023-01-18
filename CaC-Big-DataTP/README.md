@@ -1,4 +1,4 @@
-# Codo a Codo -Big Data
+# Codo a Codo - Big Data
 
 ## Capstone project 
 
