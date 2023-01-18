@@ -33,6 +33,8 @@ ayudar en la toma de decisiones.
 decisiones en otros eventos.
 
 
+| Primera columna | Segunda columna | Tercera columna |
+
 ### Detalle de orders
 
 |Atributo|Descripción|Tipo|
