@@ -1,5 +1,5 @@
-# CaC-Big-DataTP
+# Codo a Codo -Big Data
 
-Trabajo práctico final 
+## Capstone project 
 
-Curso Codo a Codo - Big data
+Report integrating 3 data sets from different sources (databases, csv and .xlsx files) using numpy, pandas, matplotlib and seaborn.
