@@ -30,9 +30,8 @@ del espectáculo.
 2. Crear un dashboard de control que permita evaluar el comportamiento de las ventas y
 ayudar en la toma de decisiones.
 3. Encontrar uno o más insights en los datos que pueda tener relevancia para futuras
-decisiones en otros eventos.
-  
-  
+decisiones en otros eventos.  
+
 ### Detalle de orders.csv
 
 |Atributo|Descripción|Tipo|
