@@ -33,31 +33,47 @@ ayudar en la toma de decisiones.
 decisiones en otros eventos.
 
 
-| Primera columna | Segunda columna | Tercera columna |
-| -- | -- | -- |
-
 
 ### Detalle de orders
 
 |Atributo|Descripción|Tipo|
+| -- | -- | -- |
 |order_id|id de la orden de compra|string|
+| -- | -- | -- |
 |order_date |fecha de la orden de compra |date|
+| -- | -- | -- |
 |order_hour |orden de la hora de compra |time|
+| -- | -- | -- |
 |status |indica si las tickets se entregaron o deben entregarse |string|
+| -- | -- | -- |
 |event |nombre del evento |string|
+| -- | -- | -- |
 |show_date |fecha del show |date|
+| -- | -- | -- |
 |show_hour |hora del show |time|
+| -- | -- | -- |
 |tickets_quantity |cantidad de tickets en la orden y sector |integer|
+| -- | -- | -- |
 |ticket_type |indica si el usuario compró sector del estadio, parking o experiencia previa|string
+| -- | -- | -- |
 |tribune |indica la tribuna del estadio |string|
+| -- | -- | -- |
 |previuos_experience_hour |hora de la experiencia previa, en el caso que haya comprado|time|
+| -- | -- | -- |
 |price_type |indica si compro precio regular o con promoción |string|
+| -- | -- | -- |
 |order_amount |monto de la orden |numeric|
+| -- | -- | -- |
 |payment_method |indica el método de pago de la orden |string|
+| -- | -- | -- |
 |client_id |id del cliente |string|
+| -- | -- | -- |
 |city* |ciudad donde habita el cliente |string|
+| -- | -- | -- |
 |region |región en la que habita el cliente |string|
+| -- | -- | -- |
 |country |país en el que habita el cliente |string|
+| -- | -- | -- |
 
 *este campo se llena de forma manual a la hora de realizar el pago
 
