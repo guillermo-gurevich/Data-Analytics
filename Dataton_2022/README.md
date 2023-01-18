@@ -33,8 +33,7 @@ ayudar en la toma de decisiones.
 decisiones en otros eventos.
 
 
-
-### Detalle de orders
+### Detalle de orders.csv
 
 |Atributo|Descripción|Tipo|
 | -- | -- | -- |
@@ -53,26 +52,27 @@ decisiones en otros eventos.
 |order_amount |monto de la orden |numeric|
 |payment_method |indica el método de pago de la orden |string|
 |client_id |id del cliente |string|
-|city* |ciudad donde habita el cliente |string|
+|city [^1]|ciudad donde habita el cliente |string|
 |region |región en la que habita el cliente |string|
 |country |país en el que habita el cliente |string|
-| -- | -- | -- |
 
-*este campo se llena de forma manual a la hora de realizar el pago
+[^1]: este campo se llena de forma manual a la hora de realizar el pago
 
 
-### Detalle de show_capacity
+### Detalle de show_capacity.csv
 
 |Atributo |Descripción |Tipo|
+| -- | -- | -- |
 |show_date |fecha del show |date|
 |show_hour |hora del show |time|
 |ticket_type|indica sector, experiencia previa o estacionamiento|string|
 |capacity |capacidad máxima correspondiente |integer|
 
 
-### Detalle de other_show_sales
+### Detalle de other_show_sales.csv
 
 |Atributo |Descripción |Tipo|
+| -- | -- | -- |
 |event |nombre del evento |string|
 |first_week_tickets_quantity|cantidad de tickets vendidos en la primera semana de venta|integer|
 |second_week_tickets_quantity|cantidad de tickets vendidos en la segunda semana de venta|integer|
@@ -84,3 +84,4 @@ decisiones en otros eventos.
 |middle_weeks_quantity |cantidad de semanas intermedias de venta |integer|
 |shows_quantity |cantidad de shows (o funciones) del evento |integer|
 |sold_out_flag |indica si el show se agoto o no |boolean|
+
