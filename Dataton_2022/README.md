@@ -31,8 +31,8 @@ del espectáculo.
 ayudar en la toma de decisiones.
 3. Encontrar uno o más insights en los datos que pueda tener relevancia para futuras
 decisiones en otros eventos.
-
-
+  
+  
 ### Detalle de orders.csv
 
 |Atributo|Descripción|Tipo|
@@ -58,7 +58,8 @@ decisiones en otros eventos.
 
 [^1]: este campo se llena de forma manual a la hora de realizar el pago
 
-
+  
+  
 ### Detalle de show_capacity.csv
 
 |Atributo |Descripción |Tipo|
