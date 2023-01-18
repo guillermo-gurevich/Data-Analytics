@@ -34,6 +34,8 @@ decisiones en otros eventos.
 
 
 | Primera columna | Segunda columna | Tercera columna |
+| -- | -- | -- |
+
 
 ### Detalle de orders
 
