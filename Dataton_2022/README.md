@@ -85,4 +85,3 @@ decisiones en otros eventos.
 |middle_weeks_quantity |cantidad de semanas intermedias de venta |integer|
 |shows_quantity |cantidad de shows (o funciones) del evento |integer|
 |sold_out_flag |indica si el show se agoto o no |boolean|
-
